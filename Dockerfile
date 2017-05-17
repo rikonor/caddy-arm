@@ -1,4 +1,4 @@
-FROM scratch
+FROM rikonor/scratch
 
 WORKDIR /app
 COPY caddy /app
